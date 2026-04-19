@@ -1,2 +1,0 @@
-# terraOS
-repository for terraOS
